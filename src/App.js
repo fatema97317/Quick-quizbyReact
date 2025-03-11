@@ -30,8 +30,6 @@ function App() {
        <button key={index} onClick={()=> handleAnswer(option)}> {option}</button>
          
       )}
-    
-     
     </div>
     </div>)
         : 
